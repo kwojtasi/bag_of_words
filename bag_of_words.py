@@ -9,6 +9,7 @@ from matplotlib import pyplot as plt
 
 from sklearn.feature_selection import RFE
 from sklearn.linear_model import LogisticRegression
+from scipy.stats import mannwhitneyu
 from sklearn.svm import SVC
 import pandas
 
@@ -45,6 +46,18 @@ class BagOfWords:
         rfe_lg = RFE(lg, num)
         rfe_lg.fit(self.data, category_labels)
         return self.collabels[rfe_lg.support_]
+
+    def mannwhitneyu_statistic_method(self, category, num=5, **kwargs):
+        word_regex = re.compile('base:(.*)')
+        category_labels = [1 if label == category else 0 for label in self.only_labels]
+        res_list = []
+
+        for i, word in enumerate(self.collabels):
+            stat, pvalue = mannwhitneyu(self.data[:, i], category_labels)
+
+            res_list.append((word_regex.match(word).group(1), stat, pvalue))
+        res_list.sort(key=lambda x: x[2], reverse=True)
+        return res_list[:num]
 
     @property
     def categories(self):
@@ -120,6 +133,8 @@ def different_models():
 
 
 if __name__ == '__main__':
-    different_models()
+    bow = BagOfWords(path_to_file='weighted.json')
+    result = bow.mannwhitneyu_statistic_method('Ekonomia, Biznes i Finanse')
+    print(result)
 
 
