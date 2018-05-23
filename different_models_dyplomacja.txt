@@ -1,0 +1,13 @@
+Words for category: Dyplomacja
+Used model: RandomForestClassifier
+[{'MSZ': 0.11309684481776505}, {'dyplomacja': 0.059845777659061836}, {'prezydent': 0.04376028413712157}, {'dyplomat': 0.03366217413427438}, {'ambasador': 0.024999033285513155}, {'sprawa': 0.021071870989748935}, {'Sikorski': 0.020503055395737445}, {'dyplomata': 0.017882166379515337}, {'wizyta': 0.017592595892670794}, {'spółka': 0.016564385597603093}]
+
+Used model: ExtraTreesClassifier
+[{'dyplomacja': 0.10418002313163835}, {'MSZ': 0.03389113980519176}, {'ambasador': 0.026056154511057618}, {'USA': 0.026001341301739273}, {'ambasada': 0.023702701196928917}, {'stosunek': 0.018611474561080643}, {'sprawa': 0.016774894431348348}, {'prezydent': 0.014608328643258898}, {'dyplomat': 0.013998658949213755}, {'Izrael': 0.013193012870003842}]
+
+Used model: GradientBoostingClassifier
+[{'dyplomacja': 0.06194443899605405}, {'MSZ': 0.049267804721103314}, {'spółka': 0.030952089509138594}, {'stosunek': 0.03069945027797663}, {'ambasador': 0.030013609694882835}, {'ambasada': 0.028530595797008517}, {'prezydent': 0.023333752323436475}, {'wizyta': 0.020477621348190263}, {'Izrael': 0.019156608246453172}, {'dyplomata': 0.018416747177773876}]
+
+Used model: AdaBoostClassifier
+[{'ambasada': 0.04}, {'MSZ': 0.04}, {'produkt': 0.02}, {'redakcja': 0.02}, {'stosunek': 0.02}, {'zdarzenie': 0.02}, {'gospodarka': 0.02}, {'wypadek': 0.02}, {'bank': 0.02}, {'Izrael': 0.02}]
+

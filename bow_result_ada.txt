@@ -1,0 +1,16 @@
+Used model: AdaBoostClassifier
+Words for category: Dyplomacja
+[{'ambasada': 0.04}, {'MSZ': 0.04}, {'produkt': 0.02}, {'redakcja': 0.02}, {'stosunek': 0.02}, {'zdarzenie': 0.02}, {'gospodarka': 0.02}, {'wypadek': 0.02}, {'bank': 0.02}, {'Izrael': 0.02}]
+
+Words for category: Ekonomia, Biznes i Finanse
+[{'transport': 0.04}, {'wypadek': 0.04}, {'życie': 0.02}, {'kraj': 0.02}, {'ambasador': 0.02}, {'ambasada': 0.02}, {'ustawa': 0.02}, {'komunikat': 0.02}, {'koncern': 0.02}, {'produkcja': 0.02}]
+
+Words for category: Katastrofy i Wypadki
+[{'katastrofa': 0.04}, {'in': 0.02}, {'pierwsza': 0.02}, {'zdarzenie': 0.02}, {'dolar': 0.02}, {'załoga': 0.02}, {'bank': 0.02}, {'wypadek': 0.02}, {'straż': 0.02}, {'baza': 0.02}]
+
+Words for category: Sport
+[{'totalizator': 0.08}, {'mistrzostwa': 0.08}, {'tytuł': 0.04}, {'Pekin': 0.04}, {'mecz': 0.04}, {'redakcja': 0.04}, {'transport': 0.02}, {'próba': 0.02}, {'wygrana': 0.02}, {'reda': 0.02}]
+
+Words for category: Transport
+[{'wypadek': 0.04}, {'wiadomości': 0.04}, {'MSZ': 0.02}, {'infrastruktura': 0.02}, {'inwestycja': 0.02}, {'pomoc': 0.02}, {'maja': 0.02}, {'totalizator': 0.02}, {'pojazd': 0.02}, {'ranna': 0.02}]
+

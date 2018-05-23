@@ -1,0 +1,103 @@
+Used model: AdaBoostClassifier
+Words for category: Albania
+[{'Albania': 0.06}, {'Tirana': 0.04}, {'okres': 0.04}, {'budowa': 0.02}, {'była': 0.02}, {'polski': 0.02}, {'biskup': 0.02}, {'stopień': 0.02}, {'mieszkaniec': 0.02}, {'strata': 0.02}]
+
+Words for category: Amerykanscy-prozaicy
+[{'pisarz': 0.06}, {'nagroda': 0.04}, {'książka': 0.04}, {'cykl': 0.04}, {'szkoła': 0.02}, {'de': 0.02}, {'Star': 0.02}, {'władza': 0.02}, {'reżyseria': 0.02}, {'październik': 0.02}]
+
+Words for category: Arabowie
+[{'arabski': 0.06}, {'AL': 0.04}, {'Egipt': 0.04}, {'rekord': 0.04}, {'to': 0.02}, {'siła': 0.02}, {'gaz': 0.02}, {'front': 0.02}, {'stan': 0.02}, {'syn': 0.02}]
+
+Words for category: Astronautyka
+[{'satelita': 0.04}, {'rakieta': 0.04}, {'lot': 0.04}, {'misja': 0.04}, {'statek': 0.04}, {'NASA': 0.02}, {'koniec': 0.02}, {'osoba': 0.02}, {'powierzchnia': 0.02}, {'postać': 0.02}]
+
+Words for category: Choroby
+[{'działanie': 0.06}, {'zmiana': 0.04}, {'choroba': 0.04}, {'gatunek': 0.02}, {'mistrzostwa': 0.02}, {'występowanie': 0.02}, {'miał': 0.02}, {'pierwszy': 0.02}, {'Polska': 0.02}, {'pierwiastek': 0.02}]
+
+Words for category: Egipt
+[{'Egipt': 0.08}, {'listopad': 0.02}, {'program': 0.02}, {'bóg': 0.02}, {'bitwa': 0.02}, {'bibliografia': 0.02}, {'powieść': 0.02}, {'wielki': 0.02}, {'wioska': 0.02}, {'port': 0.02}]
+
+Words for category: Ekologia-roslin
+[{'las': 0.06}, {'owoc': 0.06}, {'gatunek': 0.04}, {'kwiat': 0.04}, {'rok': 0.04}, {'port': 0.02}, {'praca': 0.02}, {'linek': 0.02}, {'lipiec': 0.02}, {'powierzchnia': 0.02}]
+
+Words for category: Filmy-animowane
+[{'odcinek': 0.06}, {'film': 0.06}, {'studio': 0.04}, {'rola': 0.04}, {'gra': 0.04}, {'serial': 0.04}, {'bohater': 0.02}, {'Tomasz': 0.02}, {'część': 0.02}, {'Warszawa': 0.02}]
+
+Words for category: Galezie-prawa
+[{'herb': 0.04}, {'sąd': 0.04}, {'traktat': 0.04}, {'generał': 0.02}, {'policja': 0.02}, {'rynek': 0.02}, {'nagroda': 0.02}, {'postępowanie': 0.02}, {'postać': 0.02}, {'koniec': 0.02}]
+
+Words for category: Gry-komputerowe
+[{'gra': 0.18}, {'gracz': 0.06}, {'konsola': 0.04}, {'moc': 0.02}, {'postać': 0.02}, {'swoje': 0.02}, {'kierunek': 0.02}, {'jeden': 0.02}, {'działanie': 0.02}, {'rozwiązanie': 0.02}]
+
+Words for category: Karkonosze
+[{'Karkonosze': 0.12}, {'osobowy': 0.06}, {'Sudety': 0.04}, {'czeski': 0.04}, {'potok': 0.04}, {'rzeka': 0.04}, {'węgiel': 0.04}, {'długość': 0.04}, {'miejscowość': 0.04}, {'październik': 0.02}]
+
+Words for category: Katolicyzm
+[{'biskup': 0.04}, {'parafia': 0.04}, {'Paweł': 0.02}, {'diecezja': 0.02}, {'Warszawa': 0.02}, {'klasztor': 0.02}, {'pismo': 0.02}, {'mistrzostwa': 0.02}, {'Polska': 0.02}, {'rodzina': 0.02}]
+
+Words for category: Komiksy
+[{'komiks': 0.08}, {'bibliografia': 0.04}, {'manga': 0.04}, {'seria': 0.04}, {'rozgrywka': 0.02}, {'anime': 0.02}, {'wrzesień': 0.02}, {'przygoda': 0.02}, {'pamięć': 0.02}, {'obsada': 0.02}]
+
+Words for category: Komputery
+[{'komputer': 0.06}, {'technologia': 0.04}, {'pamięć': 0.04}, {'system': 0.04}, {'gra': 0.04}, {'firma': 0.04}, {'tworzenie': 0.02}, {'bibliografia': 0.02}, {'PC': 0.02}, {'liczba': 0.02}]
+
+Words for category: Kotowate
+[{'kot': 0.16}, {'lew': 0.1}, {'gatunek': 0.08}, {'tygrys': 0.06}, {'linek': 0.04}, {'miejsce': 0.02}, {'rodzina': 0.02}, {'występowanie': 0.02}, {'Indie': 0.02}, {'rodzaj': 0.02}]
+
+Words for category: Kultura-Chin
+[{'Chiny': 0.06}, {'chiński': 0.04}, {'dynastia': 0.04}, {'dodatek': 0.02}, {'rzecz': 0.02}, {'Jan': 0.02}, {'nazwa': 0.02}, {'Japonia': 0.02}, {'kot': 0.02}, {'to': 0.02}]
+
+Words for category: Monety
+[{'moneta': 0.14}, {'jednostka': 0.06}, {'sztuk': 0.04}, {'dolar': 0.04}, {'skład': 0.02}, {'inny': 0.02}, {'napis': 0.02}, {'jeden': 0.02}, {'rok': 0.02}, {'rodzina': 0.02}]
+
+Words for category: Muzyka-powazna
+[{'kompozytor': 0.04}, {'muzyka': 0.04}, {'chór': 0.04}, {'koncert': 0.04}, {'fortepian': 0.04}, {'książę': 0.02}, {'wojna': 0.02}, {'towarzystwo': 0.02}, {'powieść': 0.02}, {'pieśń': 0.02}]
+
+Words for category: Narciarstwo
+[{'skok': 0.04}, {'firma': 0.02}, {'Warszawa': 0.02}, {'linek': 0.02}, {'luty': 0.02}, {'polski': 0.02}, {'wszyscy': 0.02}, {'medal': 0.02}, {'Włochy': 0.02}, {'miasto': 0.02}]
+
+Words for category: Narkomania
+[{'związek': 0.06}, {'pochodna': 0.04}, {'substancja': 0.04}, {'działanie': 0.04}, {'środek': 0.04}, {'wrzesień': 0.02}, {'list': 0.02}, {'osiągnięcie': 0.02}, {'roślina': 0.02}, {'wojna': 0.02}]
+
+Words for category: Niemieccy-wojskowi
+[{'oficer': 0.04}, {'Krak': 0.04}, {'Warszawa': 0.04}, {'generał': 0.04}, {'większość': 0.02}, {'listopad': 0.02}, {'nazwa': 0.02}, {'armia': 0.02}, {'imienie': 0.02}, {'baza': 0.02}]
+
+Words for category: Optyka
+[{'barwa': 0.04}, {'teleskop': 0.04}, {'aparat': 0.04}, {'wydawnictwo': 0.02}, {'większość': 0.02}, {'pomiar': 0.02}, {'lot': 0.02}, {'luty': 0.02}, {'początek': 0.02}, {'obraz': 0.02}]
+
+Words for category: Pierwiastki-chemiczne
+[{'stop': 0.08}, {'stal': 0.06}, {'pierwiastek': 0.06}, {'metal': 0.04}, {'węgiel': 0.04}, {'odmiana': 0.04}, {'kwiat': 0.04}, {'temperatura': 0.02}, {'system': 0.02}, {'izotop': 0.02}]
+
+Words for category: Pilka-nozna
+[{'zawodnik': 0.06}, {'klub': 0.06}, {'mistrz': 0.04}, {'sezon': 0.04}, {'świat': 0.04}, {'reprezentacja': 0.04}, {'liga': 0.04}, {'finał': 0.04}, {'informacja': 0.02}, {'rozgrywka': 0.02}]
+
+Words for category: Propaganda-polityczna
+[{'ZSRR': 0.02}, {'autorstwo': 0.02}, {'inny': 0.02}, {'władza': 0.02}, {'ruch': 0.02}, {'ministerstwo': 0.02}, {'Karkonosze': 0.02}, {'Rzesza': 0.02}, {'czerwiec': 0.02}, {'trzeci': 0.02}]
+
+Words for category: Rachunkowosc
+[{'środek': 0.04}, {'obowiązek': 0.04}, {'koszt': 0.04}, {'podatek': 0.04}, {'pieniądz': 0.02}, {'lato': 0.02}, {'podstawa': 0.02}, {'opodatkowanie': 0.02}, {'powód': 0.02}, {'pierwsza': 0.02}]
+
+Words for category: Samochody
+[{'samochód': 0.06}, {'wynik': 0.06}, {'model': 0.04}, {'nadwozie': 0.04}, {'pojazd': 0.04}, {'autobus': 0.04}, {'silnik': 0.04}, {'generacja': 0.02}, {'mistrzostwa': 0.02}, {'samolot': 0.02}]
+
+Words for category: Samoloty
+[{'samolot': 0.16}, {'kabina': 0.04}, {'egzemplarz': 0.04}, {'myśliwiec': 0.04}, {'mniejszy': 0.02}, {'literatura': 0.02}, {'dzień': 0.02}, {'inny': 0.02}, {'aparat': 0.02}, {'angielski': 0.02}]
+
+Words for category: Sporty-silowe
+[{'Europa': 0.06}, {'kategoria': 0.06}, {'data': 0.04}, {'igrzyska': 0.04}, {'świat': 0.04}, {'masa': 0.02}, {'punkt': 0.02}, {'puchar': 0.02}, {'ręka': 0.02}, {'nazwa': 0.02}]
+
+Words for category: System-opieki-zdrowotnej-w-Polsce
+[{'zakład': 0.04}, {'szpital': 0.04}, {'lekarz': 0.04}, {'polski': 0.02}, {'należąca': 0.02}, {'twórca': 0.02}, {'zdrowie': 0.02}, {'województwo': 0.02}, {'osiągnięcie': 0.02}, {'Król': 0.02}]
+
+Words for category: Szachy
+[{'szach': 0.1}, {'szachista': 0.06}, {'zadanie': 0.04}, {'bibliografia': 0.04}, {'drużyna': 0.04}, {'system': 0.04}, {'ranking': 0.04}, {'wynik': 0.04}, {'ruch': 0.04}, {'strona': 0.02}]
+
+Words for category: Wojska-pancerne
+[{'czołg': 0.1}, {'pancerny': 0.06}, {'dywizja': 0.06}, {'rok': 0.04}, {'czas': 0.04}, {'RP': 0.02}, {'porównanie': 0.02}, {'pierwsza': 0.02}, {'samolot': 0.02}, {'karabin': 0.02}]
+
+Words for category: Zegluga
+[{'flota': 0.04}, {'okręt': 0.04}, {'statek': 0.04}, {'film': 0.02}, {'muzeum': 0.02}, {'jednostka': 0.02}, {'działanie': 0.02}, {'port': 0.02}, {'Krak': 0.02}, {'rodzina': 0.02}]
+
+Words for category: Zydzi
+[{'Izrael': 0.06}, {'synagoga': 0.04}, {'obóz': 0.04}, {'rok': 0.04}, {'rzeczpospolita': 0.02}, {'wioska': 0.02}, {'Karkonosze': 0.02}, {'los': 0.02}, {'osoba': 0.02}, {'ostatni': 0.02}]
+
